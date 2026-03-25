@@ -1,0 +1,17 @@
+body {
+	background-color: white;
+	font-family: "Arial", "sans-serif";
+	text-align: center;
+}
+h1 {
+	font-size: 32px;
+	font-family: "Arial MT", "Times-new Roman", "Sans-serif";
+}	
+h2 {
+	font-family: "Arial", "sans-serif";
+	border: 3px solid black;
+	color :	#00008B;
+}
+img {
+	border-radius: 10px;
+}

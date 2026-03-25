@@ -1,0 +1,39 @@
+body { 
+	background-color: white;
+	font-family: "Open Sans *", sans-serif;
+	padding: 5px 25px;
+	font-size: 18px;
+	margin: 50px;
+	color: #000000
+}
+
+h1 {
+	font-family: Verdana Arial, sans-serif;
+	font-size: 36px;
+	color: #8B008B;
+	text-align: center; 
+}
+h2 {
+	font-family: Verdana Arial, sans-serief;
+	font-size: 24px;
+	color: #DC143C;
+	text-align: left;
+}
+h3 {
+	font-family: Verdana Arial, sans serief;
+	font-size: 24px;
+	color: #DC143C;
+	text-align: left;
+}
+h4 {
+	font-family: Verdana Arial, sans serief;
+	font-size: 24px;
+	color: #DC143C;
+	text-align: left;
+} 
+h5 {
+	font-family: Verdana Arial, sans-serief;
+	font-size: 24px;
+	color: #DC143C;
+	text-align: left;
+} 

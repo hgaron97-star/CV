@@ -1,0 +1,13 @@
+body {
+background-color:#FFEFD5;
+text-align:left;
+border: 10px double #B22222;
+padding: 50px;
+font-size: 20px;
+}
+h1 {
+    color: #800000;
+	border-width: 10px;
+  border-style: double;
+  border-color : #B22222;
+{

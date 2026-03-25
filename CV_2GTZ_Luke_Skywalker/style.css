@@ -1,0 +1,40 @@
+body {
+	background-color: black;
+	color : white;
+	margin:30px;
+	font-size:18px;
+}
+h1 {
+	color : green;
+	text-align: center;
+	border : solid 2px green;
+}
+h2 {
+	color : yellow;
+	border-bottom: solid 1px yellow;
+}
+h3 {
+	color:green;
+	text-decoration: underline;
+}
+img {
+	height : 100px;
+	margin-left:50px;
+}
+a {
+	color : white;
+	text-decoration : none;
+}
+a:hover{
+	color:yellow;
+}
+h3 a{
+	color: green
+}
+.centrer {
+	text-align: center;
+}
+.sanspoint {
+	list-style:none;
+	/*text-align:center;*/
+}

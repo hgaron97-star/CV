@@ -1,0 +1,26 @@
+Body {
+	Background-color:#F5F5F5;
+	font-family:"Open Sans", sans-serif;
+	Padding:5px 25px;
+	font-size:18px;
+	Color: #444;
+	margin-left: 50px;
+}
+H1 {
+	font-family: Verdana, Arial, sans-serif ;
+	font-size : 36px;
+	color:#483D8B;
+	text-align:center;
+}
+H2 {
+	font-family: Verdana, Arial, sans-serif ;
+	font-size : 24px;
+	color:#DB7093;
+	text-align:left;
+}
+H3 {
+	font-family: Verdana, Arial, sans-serif ;
+	font-size : 18px;
+	text-decoration: underline;
+	color:#444;
+}
