@@ -1,0 +1,31 @@
+body {
+background-color: DarkSalmon;
+font-family: "Snell Roundhand", cursive;
+border: 10px, medium, #FAEBD7;
+padding: 5px 25px;
+font-size: 18px;
+margin: 0;
+color: #F5F5DC
+}
+h1 {
+font-family: "Didot", serif;
+text-decoration: underline;
+text-align: center;
+color: #8B0000;
+border: 10px;
+border-color: AntiqueWhite;
+border-width: 10px;
+border: 2px solid #8B0000;
+}
+h2 {
+font-family: "Apple Chancery", cursive;
+text-decoration: underline;
+margin: 10px 15px 10px 15px;
+color: #8B0000;
+}
+}
+h3 {
+color: #FFE4C4;
+margin: 10px 15px 10px 15px;
+font-size: 20px;
+}

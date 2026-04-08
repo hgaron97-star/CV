@@ -1,0 +1,31 @@
+h1 {
+	color: #B8860B;
+	font-family: "Georgia", serif;
+	border-bottom: 4px solid red;
+	text-align: center;
+	font-size: 40px	
+} 
+body{
+	font-family: "Open-sans", sans-serif;
+}
+h2 {
+	text-decoration: underline;
+	border-top : 8px groove #FF8C00;
+	margin-left: 30px;
+	color: #A52A2A;
+}
+html{ 
+	background-color:#F5F5DC;
+}
+a{ 
+	font-style: italic;
+}
+img{ 
+	margin-left:375px;
+}
+.année{ 
+	text-decoration:underline;
+}
+.info{ 
+	font-weight: strong;
+}

@@ -1,0 +1,23 @@
+body { 
+background-color:#212E53;
+font-family:"Arial", sans-serif;
+padding:5px 25px;
+font-size: 16px; 
+color:#F8B116;
+}
+h1 { 
+font-family:"Times New Roman", serif;
+font-size:44px;
+color:#89004F;
+} 
+h2 { 
+font-family:"georgia", serif;
+font-size:36px;
+color:#FF69B4;
+}
+h3 { 
+font-family:"nordic", serif;
+font-size:24px;
+color:#FFA8D9;
+} 
+
