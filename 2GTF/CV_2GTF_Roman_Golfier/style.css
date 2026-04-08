@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    margin: 20px;
+}
+
+h1 {
+    color: darkorange;
+    text-align: left;
+    border-bottom: 2px solid orange;
+}
+
+p {
+    color: navy;
+    font-size: 17px;
+    line-height: 1.4;
+}
+
+div {
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+a {
+    color: orange;
+    text-decoration: none;
+}

@@ -1,0 +1,25 @@
+/* Style général */
+body {
+    font-family: Arial, sans-serif;
+    color: blue; /* texte bleu */
+}
+
+/* Titre principal */
+h1 {
+    text-align: center;
+    color: green;
+}
+
+/* Sous-titres avec ligne verte */
+h2 {
+    color: red;
+    border-bottom: 2px solid green; /* ligne verte */
+    padding-bottom: 5px;
+}
+
+/* Image */
+img {
+    display: block;
+    margin: auto;
+    width: 150px;
+}

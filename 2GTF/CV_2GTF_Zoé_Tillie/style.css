@@ -1,0 +1,28 @@
+p {
+	color: black;
+}
+img {
+width:170px
+}
+h2 {
+	text-decoration: underline
+}
+body {
+	font-size: large;	
+	background-color: MintCream;
+	text-align: justify;
+	font-family: serif
+}
+ul {
+	color: dark
+	border: 2px groove black;
+}
+ol {
+	color: DarkBlue
+}
+p {
+	color: DarkBlue
+}
+h1 {
+	border: 4px double black;
+}

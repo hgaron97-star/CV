@@ -1,0 +1,27 @@
+body {
+    font-family:Arial;
+	background-color:pink
+	}
+h1 {
+	color: blue;
+	text-decoration:underline;
+	border: 2px solid yellow;
+	border-radius: 5px
+	}
+h2  {
+	color: limegreen;
+	text-decoration:underline;
+	border: 2px solid green;
+	border-radius: 5px
+	}
+h3  {
+	color: red;
+	text-decoration:underline;
+	border: 2px solid blue;
+	border-radius: 5px
+	}
+p   {
+  color : blue;
+}
+
+

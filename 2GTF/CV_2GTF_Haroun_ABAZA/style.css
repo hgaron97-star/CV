@@ -1,0 +1,21 @@
+ body{
+	 background-color:palegoldenrod;
+	 font-family:"Arial", sans serif;
+	 font-size:15px;
+	 margin:20px
+ }
+ h1{
+	 font-family:"Arial",serif;
+	 text-decoration: underline;
+	 font-weight:bold;
+	 font-size:50px
+ }
+ h2{
+	 font-size:30px;
+	 font-family:"Arial Black", sans serif;
+	 text-decoration: underline;
+ }
+ img{
+  width: 300px; 
+  height: auto;   
+}

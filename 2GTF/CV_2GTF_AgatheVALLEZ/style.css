@@ -1,0 +1,25 @@
+p {
+	color: Black
+}
+body {
+	background-color:#E0FFFF;
+	font-family:"Open Sans", sans-serif;
+	padding:5px 25px;
+	font-size:18px;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 48px;
+  color: DarkSlateBlue
+}
+
+h2 {
+  font-family: "Merriweather", serif;
+  font-size: 36px;
+  color: DarkBlue
+}
+
+.fondbleuclair {
+  background-color: lightblue;
+}

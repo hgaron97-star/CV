@@ -1,0 +1,52 @@
+body {
+	background-color: white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding: 5px 25px;
+	font-size: 18px;
+	margin:0;
+	color: #468284;
+}
+
+h1 {
+	font-family: "Merriweather", serif;
+	font-size: 48px;
+	margin: 0;
+	color: #FF0000;
+	border: 2px solid blue;
+}
+
+h2 {
+	font-family: "Merriweather", serif;
+	font-size: 48px;
+	margin: 0;
+	color: #468284;
+	border: 2px solid blue;
+}
+h3 {
+	font-family: "Merriweather", serif;
+	font-size: 48px;
+	margin: 0;
+	color: #468284;
+	border: 2px solid blue;
+}
+h4 {
+	font-family: "Merriweather", serif;
+	font-size: 48px;
+	margin: 0;
+	color: #468284;
+	border: 2px solid blue;
+}
+h5 {
+	font-family: "Merriweather", serif;
+	font-size: 48px;
+	margin: 0;
+	color: #468284;
+	border: 2px solid blue;
+}
+h6 {
+	font-family: "Merriweather", serif;
+	font-size: 48px;
+	margin: 0;
+	color: #468284;
+	border: 2px solid blue;
+}
