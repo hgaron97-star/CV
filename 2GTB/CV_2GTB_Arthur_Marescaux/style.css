@@ -1,0 +1,132 @@
+/*   GENERAL*/
+
+
+body {
+    font-family: Georgia, serif;
+    font-size: 15px;
+    background-color: #f0f4f8;
+    color: #1a1a2e;
+    margin: 30px;
+}
+
+			/* =====================
+					TITRES
+			===================== */
+			
+			
+/* Titre principal : texte doré */
+
+
+h1 {
+    font-size: 30px;
+    background-color: transparent;
+    color: gold;
+    padding: 0;
+    letter-spacing: 2px;
+    margin: 0 0 10px 0;
+}
+
+/* Rubriques : texte marine avec soulignement doré */
+h2 {
+    font-size: 16px;
+    color: #0d2b55;
+    border-bottom: 2px solid gold;
+    padding-bottom: 4px;
+    text-transform: uppercase;
+}
+
+/* =====================
+   PARAGRAPHES
+===================== */
+p {
+    line-height: 1.8;
+    color: #333333;
+}
+
+/* =====================
+   EN-TÊTE (photo + coordonnées)
+===================== */
+.header-infos {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    background-color: #0d2b55;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+}
+
+.photo-profil {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid gold;
+    object-fit: cover	;
+    flex-shrink: 0;
+}
+
+.header-infos ul {
+    color: white;
+    list-style: none;
+    padding: 0;
+    margin: 5px 0 0 0;
+}
+
+.header-infos ul li {
+    margin-bottom: 4px;
+}
+
+.header-infos a {
+    color: gold;
+}
+
+/* =====================
+   EXPÉRIENCE PROFESSIONNELLE
+===================== */
+/* Titre du stage en gras */
+.titre_en_gras {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Les sous-éléments des stages ne sont pas en gras */
+.titre_en_gras ul li {
+    font-weight: normal;
+}
+
+/* =====================
+   TABLEAU 2 COLONNES
+===================== */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    width: 50%;
+    vertical-align: top;
+    padding: 0 20px;
+}
+
+
+		/* EFFETS DE SURVOL */
+
+
+/* Les liens changent de couleur au survol */
+a:hover {
+    color: white;
+    background-color: #0d2b55;
+}
+
+/* Les titres h2 glissent vers la droite au survol */
+h2:hover {
+    color: gold;
+    background-color: #0d2b55;
+    padding-left: 20px;
+    transition: padding-left 0.3s;
+}
+
+/* Les éléments de liste se décalent au survol */
+li:hover {
+    padding-left: 10px;
+    transition: padding-left 0.3s;
+}

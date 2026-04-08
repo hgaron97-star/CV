@@ -1,0 +1,62 @@
+/* Création des colonnes */
+.colonnes {
+  display: flex;
+  gap: 20px; 
+}
+/* Pour mettre un espace entre les 2 colonnes */
+.colonne1, .colonne2 {
+  flex: 1;    
+}
+/* Parametre du bandeau */
+  .bandeau {
+    background-color: #007a8c; 
+    color: white;              
+    padding: 40px 20px;        
+  }
+
+  .bandeau h1, .bandeau h2 {
+    margin: 0;                 
+  }
+
+  .bandeau h1 {
+    font-size: 40px;
+    font-weight: bold;
+  }
+
+  .bandeau h2 {
+    font-size: 20px;
+    font-weight: normal;
+  }
+/* Modification du titre h3 */ 
+  h3 {
+    font-size: 16px;
+    color: #0d2b55;
+    border-bottom: 2px gold bl ;
+    padding-bottom: 4px;
+    text-transform: uppercase;
+}
+/* Modification de title */ 
+  h1 {
+    font-size: 100px;
+    color: #FFFFFF;
+    border-bottom: 2px gold bl ;
+    padding-bottom: 4px;
+    text-transform: uppercase;
+}
+/* Modification du titre h3 */ 
+  h4 {
+    font-size: 13px;
+    color: #0d2b55;
+    border-bottom: 2px gold bl ;
+    padding-bottom: 4px;
+    text-transform: uppercase;
+}
+/* Pour que l'image sois bien positionné */
+.image-top-right {
+    position: absolute;
+    top: 8px;      
+    right: 9px;    
+    width: 138px;   
+}
+
+

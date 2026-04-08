@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<title>Clement Dhellemmes, eleve de 2GT</title>
+<meta charset="utf-8"/>
+<meta name="author" content="Clement Dhellemmes"/>
+</head>
+<body>
+<h1>DHELLEMMES Clément</h1>
+<img src="Image/clement_dhellemmes.jpg" alt="CV.2GTB_Dhellemmes_Clément" width="200">
+<h2>A)Informations personnelles</h2>
+<ul>
+	<li>07 69 87 06 63</li>
+	<li>clemdhellemmes@gmail.com</li>
+	<li>Lille, Métropole Lilloise</li>
+	<li>Né le  30/08/2010</li>
+</ul>
+<p>Je cherche un stage dans le domaine de l'expertise comptabilité. J'ai déjà exercé le domaine de la contabilité lorsque j'ai effectué mon stage de troisième dans la SOCIETE DRAGAGE INTERNATIONAL, Je suis scolarisé au Lycée LaSalle à Lille en seonde Générale et technolgique et ait effectué mes années de collégiens au collège Dominique Savio à Lambersart.</p>
+<h2>B)Informations complémentaires</h2>
+<h3>1)Diplome</h3>
+<ol>
+	<li>Diplômé du brevet des collèges de Juin 2025 avec mention bien</li>
+	<li>Certificat PIX</li>
+	<li>Projet Voltaire</li>
+</ol>
+<h3>2)Competences</h3>
+<ul>
+    <li>Gestion du temps</li>
+	<li>Autonome</li>
+	<li>Capacités d’organisation</li>
+	<li>Office 365</li>
+	<li>Sérieux</li>
+	<li>Sérieux</li>
+	<li>Curieux</li>
+	<li>Attentif</li>
+</ul>
+<h3>3)Centres d'intérêts</h3>
+<ul>
+	<li>Films comiques</li>
+	<li>La marche</li>
+	<li>Badminton</li>
+</ul>
+<h3>4)Langues</h3>
+<ol>
+  <li><strong>Anglais :</strong> niveau B1</li>
+  <li><strong>Espagnol :</strong> niveau A2+</li>
+</ol>
+<p>J'ai étudié au lycée <a href = "https://www.lasallelille.com"> La Salle </a></p>
+</body>
+</html>
