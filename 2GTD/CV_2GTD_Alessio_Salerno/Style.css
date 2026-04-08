@@ -1,0 +1,33 @@
+/* Style général */
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+/* Titre principal */
+h1 {
+    color: darkblue;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* Titres de sections */
+h2 {
+    color: red;
+}
+
+/* Sous-titres */
+h3 {
+    color: green;
+}
+
+/* Paragraphes */
+p {
+    font-size: 14px;
+}
+
+/* Listes */
+ul, ol {
+    padding: 10px;
+    border-radius: 10px;
+}

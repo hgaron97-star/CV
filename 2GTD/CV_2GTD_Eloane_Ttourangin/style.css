@@ -1,0 +1,17 @@
+
+body {
+    background-color: ivory; 
+    font-family: Arial, sans-serif; 
+    color: #333;
+}
+
+h1 {
+    color: darkblue; 
+    text-align: center;
+    text-decoration: underline; 
+}
+
+h3 {
+    color: darkgreen;
+    border-bottom: 2px solid darkgreen; 
+}
