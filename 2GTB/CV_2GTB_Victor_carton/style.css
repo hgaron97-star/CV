@@ -1,0 +1,40 @@
+body {
+	background-color: black;
+	font-family: Arial, sans-serif;
+	color: white;
+	margin: 22px
+}
+h1 {
+	color: red;
+	text-align: center;
+	font-size: 24px;
+}
+h2 {
+	color: orange;
+	font-size: 22px;
+	background-color: grey;
+}
+ 
+p{
+	font-size : 18px;
+}
+ul{
+	padding: 10px;
+}
+a{
+	color: red;
+}
+.header-infos{
+	display: flex;
+	align-items: center;
+	gap: 25px;
+	background-color: grey;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	padding: 20px 25px;
+ 
+	}
+.photo-profil{
+	border-radius: 35%;
+	background-color: ;
+}
