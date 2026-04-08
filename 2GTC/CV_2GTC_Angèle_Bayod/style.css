@@ -1,0 +1,33 @@
+body{
+	color:#4B0082;
+	background-color:#FF69B4;
+	border-width:medium;
+	border-style:dotted;
+	border-color: #00008B;
+	border-radius:10px;
+	margin: 15px 15px 15px 15px;
+	padding: 5px 25px;
+	font-size:12px;
+	font-family:Corbel;
+}
+h1{
+	color:#00008B;
+	text-decoration-line:underline;
+	text-decoration-color:#00008B;
+	text-decoration-style:groove;
+	text-decoration-thickness: thick;
+	font-size:32px;
+	font-weight:6px;
+	font-family:"Cooper Black";
+}
+h2{
+	color:#00008B;
+	font-size:26px;
+	font-weight:3px;
+	font-family:"Comic Sans MS";
+	border-width:large;
+	border-style:solid;
+	border-color: #00008B;
+	border-radius: 50px;
+	margin:20px 900px 20px 10px;
+}
