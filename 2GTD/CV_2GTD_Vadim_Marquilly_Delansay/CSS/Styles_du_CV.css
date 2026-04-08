@@ -1,0 +1,41 @@
+body{
+    background-color:#E0B79D;
+    font-family:Verdana, Arial, sans-serif;
+    font-size:16px;
+    font-style:normal;
+    line-height:1.2;
+
+}
+h2{
+	color:navy;
+	text-decoration:underline;
+	border-top:1px solid #ddd;
+	padding-top:1rem;
+	border-width:medium;
+    border-color:gray;
+    border-radius: 10px;
+    font-family: "Britannic", Arial, sans-serif;
+}
+ul{
+    list-style-type:square;
+}
+h4{
+    font-style:italic;
+}
+strong{
+    font-weight:bold;
+}
+.tableau{
+	width: 100%;
+ 	margin: 0 auto;
+}
+.tableau-photo{
+	text-align:center;
+}
+.tableau-nom{
+	font-size:30px;
+	color:#701705;
+	text-align:center;
+	text-decoration:underline;
+	font-family: "Stencil", Arial, sans-serif;
+}

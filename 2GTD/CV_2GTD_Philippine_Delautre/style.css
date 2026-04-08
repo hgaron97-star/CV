@@ -1,0 +1,17 @@
+body{
+font-family: "open sans",sans-serif;
+padding: 5px 25px; 
+font-size: 18px;
+}
+h1{
+font-family: "merriweather", serif;
+font-size: 32px;
+}
+h2{
+font-family: "open sans", sans-serif
+font-width: 24px;
+}
+h3{
+	color:blue;
+	text-decoration:underline;
+}
