@@ -1,0 +1,61 @@
+body {
+	background-color: CadetBlue;
+	font-family: "Open Sans", sans-serif;
+	padding: 5px 60px;
+	font-size: 18px;
+	margin: 0;
+	color: #5F9EA0;
+	text-align: center;
+}
+
+
+h1 {
+	font-family: "Merriweather", sans-serif;
+	font-size: 38px;
+	text-align: center;
+	color: Coral;
+	font-style: italic;
+	text-decoration: underline;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 10px;
+}
+
+
+h2 {
+	font-family: "Merriweather", sans-serif;
+	font-size: 28px;
+	text-align: center;
+	color: Coral;
+	font-style: italic;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 10px;
+}
+
+
+h3 {
+	font-family: "Merriweather", sans-serif;
+	font-size: 28px;
+	text-align: center;
+	color: Coral;
+	font-style: italic;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 10px;
+}
+
+
+p {
+	font-family: "Optima", serif;
+	color: Azure;
+}
+
+ul {
+	font-family: "Optima", serif;
+	color: Azure;
+	list-style-type: none
+}
