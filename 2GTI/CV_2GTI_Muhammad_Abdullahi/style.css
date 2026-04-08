@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<title>Muhammad Abdullahi - CV</title>
+<meta charset="utf-8"/>
+<meta name="author" content="Muhammad Abdullahi"/>
+<meta name="description" content="CV_2GTI_Abdullahi_Muhammad"/>
+<style>
+body {background-color: #f5f5f5;font-family: Arial, sans-serif; margin: 40px;}
+.container {max-width: 800px; margin: 0 auto; background-color: white; padding: 30px; border-radius: 10px;}
+h1 {color: #1b5e20;text-align: center;}
+h2 {color: #1565c0;}
+h3 {color: #ff9800;}
+img {border: 2px solid #1b5e20; border-radius: 50%; display: block; margin: 0 auto; width: 150px; }
+ul {padding: 15px;}
+li {margin: 8px 0;}
+a {color: #1565c0;text-decoration: none;}
+a:hover {
+text-decoration: underline;}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Muhammad Abdullahi</h1>
+<img src="Image/Muhammad%20Abdullahi.jpg" alt="Photo"/>
+<ul>
+<li><strong>Classe:</strong> Seconde Générale</li>
+<li><strong>Adresse:</strong> Loss Lille</li>
+<li><strong>Téléphone:</strong> +33 4 80 77 77 78</li>
+<li><strong>Email:</strong> Muhammad_Abdullahi@lasalelille.com</li>
+</ul>
+<h2>Expérience</h2>
+<ul>
+<li>Une semaine d'expérience de stage à la mairie</li>
+</ul>
+<h3>Compétences</h3>
+<ul>
+<li>Espagnol niveau A1</li>
+<li>Anglais niveau A2</li>
+</ul>
+<p><a href="https://www.lasalelille.com">Lycée La Salle</a></p>
+</div>
+</body>
+</html>

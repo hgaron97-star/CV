@@ -1,0 +1,14 @@
+body {
+	background-color: #44769e;
+}
+h1 {
+	font-family: "Mystical Woods Smooth Script", serif;
+	text-decoration: underline;
+}
+h2 {
+	font-family: "Felix Titling", serif;
+	text-decoration: underline;
+}
+img {
+	border-radius: 10px
+}
